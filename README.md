@@ -1,4 +1,4 @@
-# HDD_predictor-westapp-
+# HDD_predictor-midatl-
 
 Developed in order to predict the number of Heating-Degree-Days in the mid-atlantic region of the United States. Before I learned you can get much more specific data from NOAA,
 I utilized EIA datasets to develop my prediction model. 
